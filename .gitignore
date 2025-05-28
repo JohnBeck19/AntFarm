@@ -23,6 +23,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+!releases/  # Allow the releases directory
 
 # Visual Studio cache/options directory
 .vs/
